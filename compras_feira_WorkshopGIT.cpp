@@ -7,7 +7,7 @@ int main(){
 	printf("Compras na feira\n");
 	printf("Quantos ovos,bananas e alfaces voce ira comprar?\n");
 	scanf("%d%d%d", &cenoura,&abacate,&alface);
-	printf("Resultado Final da compra: \cenoura=%d\nabacate=%d\nalface=%d\n",ovo, banana,alface);
+	printf("Resultado Final da compra: \cenoura=%d\nabacate=%d\nalface=%d\n",cenoura, abacate,alface);
 	
 	
 	return 0;
